@@ -1,0 +1,58 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: burlywood;
+}
+.container{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	height: auto;
+	background-color:beige;
+}
+.header{
+	width: 1000px;
+	height: 200px; 
+	background-color: brown;
+}
+.nav{
+	width: 1000px;
+	height: 40px; 
+	background-color: chocolate;
+}
+.maincontent{
+	width: 760px;
+	float: left; 
+	padding: 20px;
+}
+.seccontent{
+	width: 160px;
+	float: right; 
+	padding: 20px;
+}
+.footer{
+	background-color: chocolate;
+	clear: both;
+}
+h1{
+	margin-left: 30px;
+}
+ul{
+	font-size: 20px;
+}
+img{
+	height: 125px;
+	width: 95px;
+}
+table{
+	width: 900px;
+	margin: auto;
+}
+p{
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+	font-size: 20px;
+}
